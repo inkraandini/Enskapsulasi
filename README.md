@@ -26,11 +26,14 @@ apabila penambahan penumpang melebihi 5 maka akan muncul penumpang melebihi kuot
 
 <h2>Tugas Praktikum 1</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111452635-4e3c4d00-8745-11eb-8496-d394cfb93d8e.png">
-
+Pada Project Tugas Praktikum 1, sama seperti project di Latihan 4. Hanya saja menambahkan method getAverage() untuk menghitung
+rata-rata berat penumpang yang ditambahkan di bus.
 
 <h2>Tugas Praktikum 2</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111452477-264ce980-8745-11eb-9f58-b16cf4b320d3.png">
-
+Pada Project Tugas Praktikum 2, membuat program menghitung luas dan permukaan bola dengan variabel double untuk jari 
+jari dan library math class untuk constanta phi. Serta method untuk men-setJariJari(), showDiameter(), showLuasPermukaan(), 
+dan showVolume(). Kemudian, didalam class UjiBola memanipulasi objek dan memanggil semua method yang ada di dalam class Bola.
 
 <h1>Kesimpulan</h1>
 Enkapsulasi/Encapsulation (pembungkusan) adalah suatu cara untuk menyembunyikan suatu proses/data didalam sistem aplikasi.
