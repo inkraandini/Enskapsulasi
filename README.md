@@ -15,7 +15,7 @@ jumlah penumpang. Sehingga tertulis “Penumpang Melebihi Kuota”.
 
 <h2>Latihan 3</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111452032-a757b100-8744-11eb-90ee-0c23163ede9b.png">
-Pada Project Latihan 2, terdapat keluaran “Name, Absen, Address” yang disertai keluaran Nama, Absen, dan Address (alamat)
+Pada Project Latihan 3, terdapat keluaran “Name, Absen, Address” yang disertai keluaran Nama, Absen, dan Address (alamat)
 seseorang yang sesuai dengan settingan kode yang telah dibuat seperti getName(), getAbsen(), getAddress().
 
 <h2>Latihan 4</h2>
